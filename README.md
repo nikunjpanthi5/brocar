@@ -9,7 +9,51 @@
 An end-to-end full-stack vehicle rental management portal designed for seamless online vehicle reservations, real-time fleet availability management, secure session-based user authentication, and automated local payment processing via the eSewa API.
 
 ---
+## 🖼️ Application Screenshots
 
+<p align="center">
+  <img src="screenshots/Screenshot (160).png" width="45%" alt="Screenshot 160" />
+  <img src="screenshots/Screenshot (161).png" width="45%" alt="Screenshot 161" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (162).png" width="45%" alt="Screenshot 162" />
+  <img src="screenshots/Screenshot (163).png" width="45%" alt="Screenshot 163" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (164).png" width="45%" alt="Screenshot 164" />
+  <img src="screenshots/Screenshot (165).png" width="45%" alt="Screenshot 165" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (166).png" width="45%" alt="Screenshot 166" />
+  <img src="screenshots/Screenshot (167).png" width="45%" alt="Screenshot 167" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (168).png" width="45%" alt="Screenshot 168" />
+  <img src="screenshots/Screenshot (169).png" width="45%" alt="Screenshot 169" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (170).png" width="45%" alt="Screenshot 170" />
+  <img src="screenshots/Screenshot (171).png" width="45%" alt="Screenshot 171" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (172).png" width="45%" alt="Screenshot 172" />
+  <img src="screenshots/Screenshot (173).png" width="45%" alt="Screenshot 173" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (174).png" width="45%" alt="Screenshot 174" />
+  <img src="screenshots/Screenshot (175).png" width="45%" alt="Screenshot 175" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot (176).png" width="91%" alt="Screenshot 176" />
+</p>
 ## 📌 Features
 
 ### User Facing Portal
